@@ -1,5 +1,5 @@
-flask
-flask-socketio
-eventlet
-cryptography
-requests
+flask==2.3.3
+flask-socketio==5.3.6
+python-socketio==5.10.0
+cryptography==41.0.7
+requests==2.31.0
